@@ -1,0 +1,40 @@
+body{
+    background-color:#f4b41a;
+    color:#143d59;
+    text-align: center;
+}
+
+#content{
+    margin-left: 600px;
+    margin-top: 100px;
+}
+
+table,tr,td{
+    border: 5px solid black;
+    border-color: #143d59;
+    overflow: hidden;
+    border-collapse:collapse;
+    table-layout: fixed;
+}
+
+table{
+    table-layout: fixed;
+}
+
+td{
+   font-size: 60px;
+   font-family: sans-serif;
+   color: aliceblue;
+   height: 100px;
+   width: 100px; 
+}
+
+#announcement
+{
+    font-family: sans-serif;
+    color: aliceblue;
+    font-size: 80px;
+}
+
+
+
